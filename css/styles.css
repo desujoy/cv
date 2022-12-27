@@ -1,7 +1,18 @@
 body{
     background-color: #F2E5E5;
+    font-family: monospace;
+    font-size: large;
 }
 
 h1,h3{
     color: #2B3A55;
+}
+
+hr{
+    border-color: #CE7777;
+    opacity: 50%;
+    border-style: dotted none none;
+    border-width: 4px;
+    height: 0px;
+    width: 30% ;
 }
