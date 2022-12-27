@@ -1,5 +1,6 @@
 body{
     background-color: #F2E5E5;
+    color: #CE7777;
     font-family: monospace;
     font-size: large;
 }
@@ -9,10 +10,14 @@ h1,h3{
 }
 
 hr{
-    border-color: #CE7777;
+    border-color: #E8C4C4;
     opacity: 50%;
     border-style: dotted none none;
     border-width: 4px;
     height: 0px;
     width: 30% ;
+}
+
+a{
+    color: #CE7777;
 }
