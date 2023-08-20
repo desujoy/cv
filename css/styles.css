@@ -1,12 +1,12 @@
 body{
-    background-color: #F2E5E5;
-    color: #CE7777;
+    background-color: #0C356A;
+    color: #D5FFD0;
     font-family: monospace;
     font-size: large;
 }
 
 h1,h3{
-    color: #2B3A55;
+    color: #40F8FF;
 }
 
 hr{
@@ -19,5 +19,5 @@ hr{
 }
 
 a{
-    color: #CE7777;
+    color: #D5FFD0;
 }
