@@ -1,2 +1,4 @@
 # cv
-My CV
+My CV using HTML and CSS
+
+desujoy.github.io/cv
